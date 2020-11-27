@@ -10,7 +10,6 @@ namespace Hospital.Web.Migrations
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
-            ContextKey = "Hospital.Web.Models.ApplicationDbContext";
         }
 
         protected override void Seed(Hospital.Web.Models.ApplicationDbContext context)

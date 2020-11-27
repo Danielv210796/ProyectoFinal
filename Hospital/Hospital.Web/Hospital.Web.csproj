@@ -175,13 +175,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202011250107013_InitialCreate.cs" />
-    <Compile Include="Migrations\202011250107013_InitialCreate.Designer.cs">
-      <DependentUpon>202011250107013_InitialCreate.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\202011270621562_StartProject.cs" />
-    <Compile Include="Migrations\202011270621562_StartProject.Designer.cs">
-      <DependentUpon>202011270621562_StartProject.cs</DependentUpon>
+    <Compile Include="Migrations\202011270657136_StarProyect.cs" />
+    <Compile Include="Migrations\202011270657136_StarProyect.Designer.cs">
+      <DependentUpon>202011270657136_StarProyect.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
@@ -371,11 +367,8 @@
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202011250107013_InitialCreate.resx">
-      <DependentUpon>202011250107013_InitialCreate.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202011270621562_StartProject.resx">
-      <DependentUpon>202011270621562_StartProject.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202011270657136_StarProyect.resx">
+      <DependentUpon>202011270657136_StarProyect.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
