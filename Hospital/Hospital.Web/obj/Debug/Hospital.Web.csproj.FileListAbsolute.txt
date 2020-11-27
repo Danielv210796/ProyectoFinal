@@ -258,3 +258,4 @@ C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.dll
 C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.pdb
 C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.Migrations.InitialCreate.resources
 C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.csproj.GenerateResource.cache
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.Migrations.StartProject.resources
