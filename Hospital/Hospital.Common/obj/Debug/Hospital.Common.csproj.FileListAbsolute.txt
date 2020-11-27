@@ -4,9 +4,9 @@ C:\Unidad3-4\Hospital\Hospital.Common\obj\Debug\Hospital.Common.csprojAssemblyRe
 C:\Unidad3-4\Hospital\Hospital.Common\obj\Debug\Hospital.Common.csproj.CoreCompileInputs.cache
 C:\Unidad3-4\Hospital\Hospital.Common\obj\Debug\Hospital.Common.dll
 C:\Unidad3-4\Hospital\Hospital.Common\obj\Debug\Hospital.Common.pdb
-C:\xampp\htdocs\ProyectoFinal\Hospital\Hospital.Common\bin\Debug\Hospital.Common.dll
-C:\xampp\htdocs\ProyectoFinal\Hospital\Hospital.Common\bin\Debug\Hospital.Common.pdb
-C:\xampp\htdocs\ProyectoFinal\Hospital\Hospital.Common\obj\Debug\Hospital.Common.csprojAssemblyReference.cache
-C:\xampp\htdocs\ProyectoFinal\Hospital\Hospital.Common\obj\Debug\Hospital.Common.csproj.CoreCompileInputs.cache
-C:\xampp\htdocs\ProyectoFinal\Hospital\Hospital.Common\obj\Debug\Hospital.Common.dll
-C:\xampp\htdocs\ProyectoFinal\Hospital\Hospital.Common\obj\Debug\Hospital.Common.pdb
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Common\bin\Debug\Hospital.Common.dll
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Common\bin\Debug\Hospital.Common.pdb
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Common\obj\Debug\Hospital.Common.csprojAssemblyReference.cache
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Common\obj\Debug\Hospital.Common.csproj.CoreCompileInputs.cache
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Common\obj\Debug\Hospital.Common.dll
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Common\obj\Debug\Hospital.Common.pdb
