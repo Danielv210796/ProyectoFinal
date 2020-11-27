@@ -254,6 +254,6 @@ C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.csproj.C
 C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.csproj.CopyComplete
 C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.dll
 C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.pdb
-C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.Migrations.StarProyect.resources
-C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.csproj.GenerateResource.cache
 C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\bin\Hospital.Common.dll.config
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.Migrations.start.resources
+C:\Unidad3-4\ProyectoFinal\Hospital\Hospital.Web\obj\Debug\Hospital.Web.csproj.GenerateResource.cache

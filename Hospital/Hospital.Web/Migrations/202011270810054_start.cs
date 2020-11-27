@@ -1,9 +1,9 @@
-namespace Hospital.Web.Migrations
+﻿namespace Hospital.Web.Migrations
 {
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class StarProyect : DbMigration
+    public partial class start : DbMigration
     {
         public override void Up()
         {
